@@ -1,4 +1,21 @@
 {
+    "name": "alexsabdev/odds",
+    "type": "library",
+    "description": "PHP package for dealing with different formats of betting odds: decimal (European), fractional (British), and moneyline (American)",
+    "keywords": ["betting", "odds", "decimal odd", "european odd", "fractional odd", "british odd", "american odd", "moneyline odd"],
+    "homepage": "https://github.com/alexsabdev/odds",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Sab",
+            "email": "alexsabdev@gmail.com",
+            "homepage": "https://github.com/alexsabdev",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.1"
+    },
     "autoload": {
         "psr-4": {
             "Alexsabdev\\Odds\\": "src"
