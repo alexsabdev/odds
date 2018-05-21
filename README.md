@@ -9,6 +9,13 @@ PHP package for dealing with different formats of betting odds: decimal (Europea
 * PHP 7.1+
 * Composer
 
+## Installation
+
+* Require the package using Composer
+```bash
+composer require alexsabdev/odds
+```
+
 ## Usage
 
 * Create an instance of any odd
